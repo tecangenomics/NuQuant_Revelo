@@ -5,7 +5,7 @@
 
 ## Downloading the application
 
-Download the most recent release [here](https://github.com/nugentechnologies/NuQuant_UniversalPlus/archive/1.1.zip). Unpack the .zip archive after downloading it. (For more information about how to unpack a .zip file, see [here](https://www.wikihow.com/Unzip-a-File).)
+Download the most recent release [here](https://github.com/tecangenomics/NuQuant_Revelo/blob/NishKumar2019-patch-1/NuQuant_Revelo.zip). Unpack the .zip archive after downloading it. (For more information about how to unpack a .zip file, see [here](https://www.wikihow.com/Unzip-a-File).)
 
 ### Installing NuQuant on Qubit 2.0
 
