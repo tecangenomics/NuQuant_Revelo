@@ -3,6 +3,11 @@
 ![http://www.tecangenomics.com](https://lifesciences.tecan.com/hubfs/page_images/logo.png)  
 [www.tecangenomics.com](http://www.tecangenomics.com)
 
+# Updated information may be found at https://tecangenomics.github.io/NuQuant.html
+The data here is kept for continuity purposes
+
+***
+
 ## Downloading the application
 
 Download the most recent release [here](https://github.com/tecangenomics/NuQuant_Revelo/blob/master/Revelo_NuQuant.zip). Unpack the .zip archive after downloading it. (For more information about how to unpack a .zip file, see [here](https://www.wikihow.com/Unzip-a-File).)
